@@ -1,1 +1,2 @@
 Bonjour,notre premier pas avec git
+je suis en salle de classe
