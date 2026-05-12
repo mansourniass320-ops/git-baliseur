@@ -1,2 +1,5 @@
+HEAD
 DKR-01, Phare des Mamelles, 00.00, 00.00
 DKR-02,Phare de Mansour, 11.11, 11.11 
+DKR-01, Super Phare, 11.11, 11.11
+ feature/Mansour/conflit
