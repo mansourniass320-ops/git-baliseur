@@ -1,1 +1,1 @@
-DKR-01, Phare des Mamelles, 14.7167, -17.5167
+DKR-01, Phare des Mamelles, 00.00, 00.00
